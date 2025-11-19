@@ -11,13 +11,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 Project Workflow
 
-🛠️ How to Use This Project
-Clone the repository
-
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
-
 This file contains:
 
 -- Data Import
@@ -56,18 +49,10 @@ Follow along with the YouTube video for full walkthrough. 👨‍💼
 MIT — feel free to fork, star, and use in your portfolio.
 
 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator. I break down complex data topics into simple, practical content that actually helps you land a job.
-
-🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
-🎥 YouTube: Amlan Mohanty
-
-Beginner-friendly tutorials, real-world projects, job and career advice
-📺 Instagram: datacareerschool
+Hey, I’m Bandi Yaswanth, a Data Analyst & Content Creator. I break down complex data topics into simple, practical content that actually helps you land a job.
 
 Quick SQL tips, data memes, and behind-the-scenes content
-💼 LinkedIn: Amlan Mohanty
+💼 LinkedIn: 
 
 Let’s connect professionally and grow your data career# Customer_behaviour_Analysis-
 data analytics project showcasing customer behaviour analysis using python,SQL,Power BI
